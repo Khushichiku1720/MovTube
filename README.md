@@ -2,7 +2,7 @@
 
 How to Run this Code? Follow these steps:
 
-Clone this Project https://github.com/Sumangupta3/MovTube.git
+Clone this Project https://github.com/Khushichiku1720/MovTube.git
 
 Open your terminal in MovTube/ folder which contains all file.
 
